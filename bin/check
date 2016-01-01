@@ -1,6 +1,5 @@
 #!/bin/bash
 
-pwd
 haxelib run munit test -js
 ./bin/clean
 
