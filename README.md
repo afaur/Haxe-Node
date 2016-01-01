@@ -49,7 +49,7 @@ After that you should be able to `git clone` this project and then run: `./bin/c
 
 The `build.hxml` file tells the compiler to:
 - Find the source files inside `src`
-- Create a `Main.swf` file in the `build` directory.
+- Create a `Main.js` file in the `build` directory.
 
 The `./bin/clean` bash script will clean out the build directory.
 
