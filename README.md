@@ -25,7 +25,8 @@ Then run the `haxelib setup` command.
 Here is an example:
 
 ```
-// Haxe Does not understand ~ so you must specify the dir absolutely.
+// The `haxelib setup` command does not understand ~ so 
+// you must specify the dir absolutely.
 // Also using .haxelib doesn't seem to work properly as of now.
 
 // Replace `username` below with your system user
