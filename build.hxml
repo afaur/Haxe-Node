@@ -1,0 +1,5 @@
+-cp src
+-lib hxnodejs
+-main basic.Main
+-js build/Main.js
+
